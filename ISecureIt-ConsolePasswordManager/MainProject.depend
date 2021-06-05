@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1551714764 source:c:\users\hp\desktop\miniproject\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+
+1551348494 c:\users\hp\desktop\miniproject\mainproject\search.h
+	<iostream>
+	<fstream>
+	<math.h>
+
+1552555990 source:d:\miniproject\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+
+1552490108 d:\miniproject\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552470531 source:e:\miniproject\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+
+1552470854 e:\miniproject\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552489849 source:e:\projects\miniproject\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+
+1552490106 e:\projects\miniproject\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552886370 source:e:\projects\miniprojectv2\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+
+1552490108 e:\projects\miniprojectv2\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552907002 source:f:\miniprojectv3\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+	<conio.h>
+
+1552490108 f:\miniprojectv3\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552972351 source:d:\miniprojectv3\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+	<conio.h>
+
+1552490108 d:\miniprojectv3\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552983293 source:e:\projects\miniprojectv4\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+	<conio.h>
+
+1552490108 e:\projects\miniprojectv4\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552994431 source:e:\projects\miniprojectv5\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+	<conio.h>
+
+1552490108 e:\projects\miniprojectv5\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+
+1552997050 source:e:\projects\miniprojectv5\mainproject\masking.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+
+1553000157 source:e:\projects\miniprojectv6\mainproject\masking.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+
+1553006781 source:e:\projects\miniprojectv6\mainproject\main.cpp
+	"search.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<iostream>
+	<math.h>
+	"hash.h"
+
+1553004914 e:\projects\miniprojectv6\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<math.h>
+
+1553000124 e:\projects\miniprojectv6\mainproject\masking.h
+	<iostream>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+
+1553007171 e:\projects\miniprojectv6\mainproject\hash.h
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<string.h>
+
+1553678401 source:e:\projects\aa\miniprojectv8\mainproject\main.cpp
+	"search.h"
+	"calculator.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<iostream>
+	<math.h>
+	"hash.h"
+	<windows.h>
+	<iomanip>
+
+1553004914 e:\projects\aa\miniprojectv8\mainproject\search.h
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<math.h>
+
+1553007171 e:\projects\aa\miniprojectv8\mainproject\hash.h
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<string.h>
+
+1553678401 e:\projects\aa\miniprojectv8\mainproject\calculator.h
+	<iostream>
+	<string.h>
+	<math.h>
+
